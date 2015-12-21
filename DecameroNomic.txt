@@ -1,0 +1,59 @@
+﻿DecameroNomic rimaneggiato
+
+
+Regole iniziali
+Ogni regola è identificata da un numero ed ogni suo comma da una lettera.
+
+
+1.  Le regole
+   1. Tutti i giocatori devono obbedire a tutte le regole, altrimenti peste li colga.
+   2. Ogni comma delle leggi viene numerato per facilitare i riferimenti (il Poeta decide come farlo).
+   3. Ad ogni nuova regola che entra nel regolamento viene assegnato un numero intero, iniziando con 100 ed un titolo, preferibilmente scelto dall'autore.
+   4. Se una regola viene emendata, a seguito del suo numero dovrà essere indicata la "versione", ovvero un numero intero fra parentesi quadre che indica il numero di emendamenti alla legge approvati (es: 100 [3]).
+   5. Per ogni legge è sempre riportato il nome dell`autore e i nomi degli autori degli emendamenti in vigore.
+   6. Il Poeta decide l'ordine con cui sono numerate le leggi che vengono approvate contemporaneamente.
+1. La Giornata
+   1. La Giornata di DecameroNomic è definita come un periodo di una settimana dalla nomina di un Re.
+   2. Il Poeta pubblica le date di riferimento delle Giornate.
+1. Il Re
+   1. In ogni Giornata, uno ed uno solo dei Giocatori è il Re, tutti gli altri sono Cortigiani.
+   2. Ogni volta che finisce una Giornata, automaticamente si stabilisce come Re per la Giornata successiva il primo Giocatore successivo al Re nell'ordine alfabetico ciclico CHE ABBIA FATTO UNA PROPOSTA NELLA GIORNATA APPENA TERMINATA.
+   3. Se non si può scegliere in questo modo un Re per la Giornata successiva, o se la scelta dovesse cadere sul Re attuale, la partita termina.
+   4. Il primo Re viene deciso di comune accordo fra i Giocatori.
+1. Il Poeta
+   1. Esiste in DecameroNomic la figura del Poeta, che deve provvedere all'aggiornamento dei documenti e alla pubblicazione dei referendum.
+   2. Il poeta si avvale e mette a disposizione dei giocatori gli strumenti più idonei per la comunicazione e la pubblicazione dei documenti necessari al gioco.
+   3. La carica di Poeta è indipendente dagli altri aspetti del gioco; ad esempio il Poeta può anche essere Re.
+   4. Il Poeta viene scelto all'inizio della partita di comune accordo fra i Giocatori.
+1. I Giocatori
+   1. I Giocatori sono, per definizione, coloro che partecipano liberamente a DecameroNomic: il Poeta è tenuto a compilarne una lista aggiornata.
+   2. Un non-Giocatore diventa Giocatore dopo aver fatto richiesta al Poeta, a partire dalla successiva Giornata.
+   3. Un Giocatore può rinunciare al gioco e ritirarsi in qualunque momento.
+1. E' una questione di punti
+   1. Tutti i Giocatori hanno un punteggio.
+   2. Il punteggio è un numero intero relativo, ed inizialmente vale 0 (zero).
+   3. Se e quando la partita termina, il vincitore della partita è dichiarato il Giocatore con il punteggio più grande; se ve n'è più d'uno con lo stesso punteggio, viene scelto chi sia stato più recentemente Re.
+   4. Questo criterio è subordinato a qualsiasi altro metodo per la determinazione del vincitore, specificato nel regolamento.
+1. Le proposte
+   1. Nel corso di una Giornata solamente i Cortigiani, ovvero tutti i Giocatori tranne il Re, possono fare al massimo due Proposte.
+   2. Per Proposta si intende:
+      * il testo di una nuova Legge (proposta di Promulgare); 
+      * la volontà di eliminare una Legge già esistente (proposta di Abrogare);
+      * la modifica, aggiunta o cancellazione di uno e un solo comma ad una Legge già esistente (proposta di Emendare).
+   1. Le proposte devono essere comunicate al poeta che è obbligato a pubblicare tutte e solo le proposte formulate dai Giocatori aventi diritto.
+   2. Appena la proposta viene pubblicata, diventa una proposta in attesa, e rimane tale finché non viene approvata o respinta.
+1. La votazione
+   1. I Cortigiani possono votare (a favore o contro) le proposte degli altri Cortigiani.
+   2. Si considera che ogni Cortigiano voti automaticamente a favore alla propria proposta.
+   3. Alla fine della Giornata, le Proposte che sono state votate da almeno la metà degli aventi diritto e che hanno ricevuto più voti favorevoli che contrari sono approvate e diventano effettive nel regolamento.
+1. I poteri del Re
+   1. Il Re può votare per le proposte dei Cortigiani, e il suo voto vale il doppio.
+   2. Inoltre, una sola volta in ogni Giornata, può porre il Veto su di una proposta, ed essa non potrà essere approvata a prescindere dal risultato della votazione.
+1. Se c'è una contraddizione…
+   1. Se due o più regole sono in conflitto fra loro, sarà da considerare, limitatamente agli aspetti in cui sono in conflitto, valida (se c'è) la regola che afferma la propria priorità sull'altra o che costituisce un'eccezione alle situazioni trattate dall'altra.
+   2. Se questo criterio non funzionasse (perché per esempio o nessuna o tutte affermano di avere priorità), si deve considerare come valida, limitatamente agli aspetti per cui sono in conflitto, la regola con numero ordinale più basso.
+   3. In caso di contestazione fra i Giocatori riguardo all'interpretazione delle regole o a fattori non regolati dal regolamento, è da ritenersi insindacabile il parere del Re, che emanerà un Regio Decreto, che sarà valido anche nelle successive Giornate finché un cambiamento di regolamento non risolva la questione o un altro Re ne emani un altro.
+   4. Il Re non può emettere Decreti a suo piacimento, ma solo se riceve la richiesta formale di intervento da parte di almeno un Cortigiano.
+1. La contraddizione che no'l consente
+   1. Se in qualsiasi momento un Giocatore fa un'azione che rende la continuazione della partita impossibile, allora la partita termina ed egli viene dichiarato vincitore.
+   2. Questa legge ha priorità su tutte le altre che determinano un vincitore.
